@@ -4,10 +4,10 @@
 
 | Nombre | Github nickname |
 |--------|-----------------|
-|Juan Esteban Alarcón Bravo | alarconjuanesteban|
-|Johan Quiroga | noxgitjohan|
-|Andrés Rodriguez | afrodriguezfl|
-
+|Sebastian Alberto Tito | TcBas|
+|Lucas Alvarado Chuctaya | Lukitas|
+|Gilmar Gutierrez Flores | yu5ds|
+|Clever Joel Mamani Ari | joel212|
 # Introducción
 
 ## Problemática
